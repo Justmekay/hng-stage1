@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900');
+
+
+
+body, html {
+	position: relative;
+	width: 1280px;
+	height: 800px;
+	background: url(../images/1.jpg), #C4C4C4;
+}
+.main{
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Roboto', sans-serif;
+}
+
+.welcome{
+	position: absolute;
+	left: 2.85%;
+	right: 46.67%;
+	top: 5.27%;
+	bottom: 87.5%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 64px;
+
+	color: #F2F2F2;
+}
+
+.intern{
+	position: absolute;
+	left: 2.85%;
+	right: 16.32%;
+	top: 14.36%;
+	bottom: 71.09%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 100px;
+
+	color: #F2F2F2;
+}
+.date{
+	position: absolute;
+	left: 2.81%;
+	right: 55.92%;
+	top: 77.73%;
+	bottom: 13.5%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 64px;
+
+	color: #F2F2F2;
+}
