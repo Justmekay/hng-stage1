@@ -7,7 +7,7 @@
 <body>
 	<div class="main">
 		<h2 class="welcome">Welcome To</h2>
-		<h1 class="intern">HNG <br> INTERNSHIP <br>PAGE</h1>
+		<h1 class="intern">HNG <br> INTERNSHIP <br>PAGE by Kolades</h1>
 		<?php
 			$date = date("d M, Y h:i A");
 			print('<p class="date">'.$date.'</p>');
